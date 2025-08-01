@@ -1,4 +1,4 @@
-# 🔢 MNIST Digit Classifier – Deployed Deep Learning App
+# 🔢 MNIST Digit Classifier
 
 > 🚀 **Streamlit + TensorFlow | Deployed on Hugging Face Spaces with Docker**
 

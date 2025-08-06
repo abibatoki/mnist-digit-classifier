@@ -2,7 +2,7 @@
 
 > 🚀 **Streamlit + TensorFlow | Deployed on Hugging Face Spaces with Docker**
 
-This project is a personal milestone for me — I trained a convolutional neural network (CNN) to recognize handwritten digits from the popular MNIST dataset and then deployed it using **Streamlit**, **Docker**, and **Hugging Face Spaces**. The goal was to create a fully interactive app that lets anyone draw a digit and get an instant prediction.
+This project is a personal milestone for me. I trained a convolutional neural network (CNN) to recognize handwritten digits from the popular MNIST dataset and then deployed it using **Streamlit**, **Docker**, and **Hugging Face Spaces**. The goal was to create a fully interactive app that lets anyone draw a digit and get an instant prediction.
 
 ---
 
